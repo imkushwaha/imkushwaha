@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about My Projects
 - 📫 How to reach me: Twitter
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: TMKOC
+- ⚡ Fun fact: TMKOC <>
 -->
+
