@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on IT Sector 
 - 🤔 I’m looking for help with Projects on Data Science
 - 💬 Ask me about My Projects
-- 📫 How to reach me: Twitter
+- 📫 How to reach me: upendra.kumar48762@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: TMKOC
 
