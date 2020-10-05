@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, I'm Upendra Kumar! 👋
 
 <!--
 **imkushwaha/imkushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about My Projects
 - 📫 How to reach me: Twitter
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: TMKOC
+- ⚡ Fun fact: TMKOC.
 -->
 
