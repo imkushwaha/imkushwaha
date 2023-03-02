@@ -56,6 +56,13 @@ My name is Upendra Kumar and I'm a passionate machine learning engineer. I'm fro
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imkushwaha&repo=Thyroid-Disease-Detection&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/imkushwaha/Spam_Ham_Classifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imkushwaha&repo=Spam_Ham_Classifier&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/imkushwaha/Machine-Learning-Model-Training-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imkushwaha&repo=Machine-Learning-Model-Training-Platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22>
+</a>
 
 <!-- links to social media icons -->
 
