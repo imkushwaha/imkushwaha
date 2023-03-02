@@ -46,16 +46,8 @@ My name is Upendra Kumar and I'm a passionate machine learning engineer. I'm fro
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/imkushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkushwaha&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkushwaha&show_icons=true&theme=radical>
 </a>
-<a href="https://github.com/imkushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkushwaha&show_icons=true&theme=radical />
-</a>
-
-<a href="https://github.com/imkushwaha/Thyroid-Disease-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imkushwaha&repo=Thyroid-Disease-Detection&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 
 
 <!-- links to social media icons -->
