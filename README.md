@@ -46,7 +46,11 @@ My name is Upendra Kumar and I'm a passionate machine learning engineer. I'm fro
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/imkushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkushwaha&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkushwaha&show_icons=true&theme=radical&count_private=true">
+</a>
+
+<a href="https://github.com/imkushwaha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkushwaha&hide_progress=false&theme=radical">
 </a>
 
 
