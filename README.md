@@ -53,11 +53,6 @@ My name is Upendra Kumar and I'm a passionate machine learning engineer. I'm fro
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkushwaha&hide_progress=false&theme=radical">
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imkushwaha&repo=Thyroid-Disease-Detection)](https://github.com/imkushwaha/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imkushwaha&repo=Spam_Ham_Classifier)](https://github.com/imkushwaha/github-readme-stats)
-
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
