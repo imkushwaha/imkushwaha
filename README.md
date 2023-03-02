@@ -61,7 +61,7 @@ My name is Upendra Kumar and I'm a passionate machine learning engineer. I'm fro
 </a>
 
 <a href="https://github.com/imkushwaha/Machine-Learning-Model-Training-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imkushwaha&repo=Machine-Learning-Model-Training-Platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imkushwaha&repo=Machine-Learning-Model-Training-Platform&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22" />
 </a>
 
 <!-- links to social media icons -->
